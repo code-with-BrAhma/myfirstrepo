@@ -1,3 +1,3 @@
-print(hellow chahcha)
-life is all about move on
-jkjijisjoijdi
+print('hellow chahcha')
+print('life is all about move on')
+print ('jkjijisjoijdi')
